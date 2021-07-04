@@ -3,11 +3,10 @@
 
 ## I'm a frontend developer, ui/ux desginer and IT student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just launched my first course: smart container!
+- 🌱 I’m currently learning flutter
+- 👯 I’m looking to collaborate with other senior developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
