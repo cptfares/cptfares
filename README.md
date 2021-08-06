@@ -1,29 +1,52 @@
-### Hi there, I'm fares anes - aka [cptfares][website] 👋
+### Hi there 👋
+
+## I'm fares anes.
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Junior Full stack Web  dev and a high school student.
 
 
-## I'm a frontend developer, ui/ux desginer and IT student!!
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I just launched my first course: smart container!
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate with other senior developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react_native)
+    ![Electron](https://img.shields.io/badge/-Eectron-333333?style=flat&logo=electron)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
+  ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-333333?style=flat&logo=postgresql)
+- ⚙️ &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### Connect with me:
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouederniAmine&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ouederniAmine&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<br />
+##  🤝🏻 &nbsp;Connect with Me
 
-### Languages and Tools:
+<p align="center">
+<a href="https://www.linkedin.com/in/fares-anes-3213061a1/"><img src="https://img.shields.io/badge/-fares%20anes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:itsfares11@gmail.com"><img src="https://img.shields.io/badge/-itsfares11@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-<br />
-<br />
+<!--
+**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
