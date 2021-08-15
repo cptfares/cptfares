@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## I'm fares anes.
-  Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
