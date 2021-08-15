@@ -39,7 +39,9 @@
 <a href="https://www.linkedin.com/in/fares-anes-3213061a1/"><img src="https://img.shields.io/badge/-fares%20anes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itsfares11@gmail.com"><img src="https://img.shields.io/badge/-itsfares11@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100017002397845"><img src="https://img.shields.io/badge/-fares-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/cptfares"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/cpt_fares"><img src="https://img.shields.io/badge/-@cpt_fares__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  
+
 
 
 
