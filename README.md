@@ -61,7 +61,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
 
 <!--Design-->
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -84,7 +83,7 @@
 <a href="https://www.linkedin.com/in/fares-anes-3213061a1/"><img src="https://img.shields.io/badge/-fares%20anes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itsfares11@gmail.com"><img src="https://img.shields.io/badge/-itsfares11@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100017002397845"><img src="https://img.shields.io/badge/-fares-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/cpt_fares"><img src="https://img.shields.io/badge/-@cpt_fares__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/cpt_fares"><img src="https://img.shields.io/badge/-@cpt_fares_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 
 
