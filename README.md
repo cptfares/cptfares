@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ## I'm fares anes.
+  Welcome to My profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=D83B7D&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Self-taught+programmer;2%2B+Years+of+experience;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
+</p>
 
 ### 💻 &nbsp;About Me 
 
@@ -67,6 +74,22 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 </p>
+
+## 🤔 How I learned Programming?
+
+<p align="center">
+  <img alt="Google" src="https://img.shields.io/badge/google-4285f4.svg?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">
+  <img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
+  <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+  <img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
+</p>
+
 
 ## My Stats
 <p align="center">
