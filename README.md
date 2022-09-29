@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D83B7D&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Self-taught+programmer;3%2B+Years+of+experience;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
+  <img src="https://readme-typing-svg.herokuapp.com?color=D83B7D&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Self-taught+programmer;2%3B+Years+of+experience;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
 </p>
 
 ### 💻 &nbsp;About Me 
